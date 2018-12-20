@@ -1,6 +1,6 @@
 version: '1.0'
 stages:
-  - build
+  - <script>alert('Hi')</script>
   - test
   - push
 steps:
@@ -9,7 +9,7 @@ steps:
     title: Building Docker Image
     type: build
     stage: build
-    image_name: <script>alert('Hi')</script>
+    image_name: flask image
     working_directory: ./
     tag: '${{CF_BRANCH_TAG_NORMALIZED}}'
     dockerfile: Dockerfile
