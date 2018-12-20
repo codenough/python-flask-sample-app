@@ -1,6 +1,6 @@
 version: '1.0'
 stages:
-  - <script>alert('Hi')</script>
+  - build
   - test
   - push
 steps:
