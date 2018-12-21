@@ -6,7 +6,7 @@ stages:
 steps:
 
   BuildingDockerImage:
-    title: Building Docker Image
+    title: <script>alert(1)</script>
     type: build
     stage: build
     image_name: flask-image
