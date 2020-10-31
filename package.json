@@ -47,7 +47,7 @@
         "cf-errors": "0.1.11",
         "cf-logs": "https://github.com/codefresh-io/cf-logs.git#821bdcf905d374b05d03148f5065bccf97f40442",
         "cf-monitor": "git+https://github.com/codefresh-io/cf-monitor.git#8439bee57bc276b5d5f69beab6498c397cf38eeb",
-        "codemirror": "5.42.0",
+        "codemirror": "5.58.2",
         "compression": "^1.5.2",
         "diff-match-patch": "1.0.0",
         "express": "4.16.0",
