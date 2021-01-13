@@ -44,7 +44,7 @@
         "angular-animate": "1.6.9",
         "angular-drag-and-drop-lists": "2.1.0",
         "angular-svg-round-progressbar": "0.4.8",
-        "cf-errors": "0.1.11",
+        "cf-errors": "0.1.15",
         "cf-logs": "https://github.com/codefresh-io/cf-logs.git#821bdcf905d374b05d03148f5065bccf97f40442",
         "cf-monitor": "git+https://github.com/codefresh-io/cf-monitor.git#8439bee57bc276b5d5f69beab6498c397cf38eeb",
         "codemirror": "5.42.0",
